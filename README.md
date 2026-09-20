@@ -1,1 +1,3 @@
 I have looked into multiple calculators from phone to desktop to a physical scientific calculator, and combined all my ideas into this one calculator. Added some of my unique touches to allow entering the base of a logarithm function and index of a root function. This calculator handles keyboard input and transitions from Standard to scientific.
+
+[Live Demo](https://avanthika107.github.io/Task-1---My-Calculator/)
